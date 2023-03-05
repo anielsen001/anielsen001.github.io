@@ -1,0 +1,34 @@
+project:
+  title: "My website"
+  output-dir: docs
+  type: website
+
+execute: 
+  freeze: auto
+
+website:
+  # favicon: favicon.ico
+  page-navigation: true
+  navbar:
+    title: "anielsen001.github.io website"
+    search: true
+  sidebar:
+    contents:
+      - text: "Home"
+        file: index.qmd
+
+format: 
+  html:
+    theme: cosmo
+
+  revealjs:
+    height: 900
+    width: 1600
+    # logo: "mylogo.png"
+    slide-number: true
+    scrollable: false
+    transition-speed: fast
+    chalkboard: true
+    link-external-newwindow: true
+    theme: cosmo
+    #css: my.css
