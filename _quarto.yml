@@ -8,6 +8,8 @@ execute:
 
 website:
   # favicon: favicon.ico
+  open-graph: true
+  google-analytics: "G-XV3NXH8NG5"
   page-navigation: true
   navbar:
     title: "apnielsen.com website"
