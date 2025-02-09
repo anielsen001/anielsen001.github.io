@@ -1,6 +1,20 @@
 ---
-title: "www.apnielsen.com"
+title: "Aaron Nielsen"
 format: html
+bibliography: nielsen_resume_selected.json
+csl: apa-cv.csl
+nocite: '@*'
+filters:
+  - quarto
+  - section-bibliographies
+  - bold-author.lua
+bold-auth-name:
+  - family: Nielsen
+    given: "Aaron P."
+  - family: Nielsen
+    given: "A. P."
+  - family: Nielsen
+    given: "A."    
 ---
 
-Hello.
+## Selected publications and presentations

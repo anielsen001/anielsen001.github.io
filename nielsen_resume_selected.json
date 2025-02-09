@@ -1,0 +1,310 @@
+[
+  {
+    "DOI": "10.1109/JSEN.2024.3416618",
+    "ISSN": "2379-9153",
+    "author": [
+      {
+        "family": "Lathrop",
+        "given": "Frederic W."
+      },
+      {
+        "family": "Taylor",
+        "given": "Clark N."
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron P."
+      }
+    ],
+    "container-title": "IEEE Sensors Journal",
+    "id": "lathrop2024",
+    "issue": "15",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "page": "23711-23722",
+    "publisher": "Institute of Electrical; Electronics Engineers (IEEE)",
+    "title": "Magnetic sensor compensation using factor graph estimation",
+    "type": "article-journal",
+    "volume": "24"
+  },
+  {
+    "DOI": "10.1063/5.0189564",
+    "ISSN": "2770-9019",
+    "author": [
+      {
+        "family": "Moradi",
+        "given": "Mohammadamin"
+      },
+      {
+        "family": "Zhai",
+        "given": "Zheng-Meng"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Lai",
+        "given": "Ying-Cheng"
+      }
+    ],
+    "container-title": "APL Machine Learning",
+    "id": "moradi2024",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "note": "Working paper",
+    "publisher": "AIP Publishing",
+    "title": "Random forests for detecting weak signals and extracting physical information: A case study of magnetic navigation",
+    "title-short": "Random forests for detecting weak signals and extracting physical information",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Canciani",
+        "given": "Aaron"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "canciani2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "number": "GP32A-03",
+    "publisher": "AGU 2023",
+    "title": "Absolute positioning using magnetic anomaly fields: An introduction to the technique and a summary of extensive ongoing development of aircraft, surface ship, and sub-surface ship navigation systems utilizing earth magnetic anomaly fields to navigate. (Invited) GP32A-03",
+    "title-short": "Absolute positioning using magnetic anomaly fields",
+    "type": ""
+  },
+  {
+    "URL": "https://afit-eeng-magnav.github.io/2023-05-17-wbi-collider/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "nielsen2023a",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "publisher": "Presented at Wright-Brothers Insitute AI/ML Collider Event.",
+    "title": "Machine learning for magnetic anomaly navigation",
+    "type": ""
+  },
+  {
+    "URL": "https://afit-eeng-magnav.github.io/2023-PLANS-MagNav-Tutorial/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "nielsen2023b",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "publisher": "Tutorial presentation at IEEE/ION PLANS 2023",
+    "title": "2023 PLANS MagNav tutorial",
+    "type": ""
+  },
+  {
+    "URL": "https://afit-eeng-magnav.github.io/2023-PLANS-MagNav-Workshop/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Saltus",
+        "given": "Rick"
+      }
+    ],
+    "id": "nielsen2023c",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "publisher": "Workshop presentations at IEEE/ION PLANS 2023",
+    "title": "MagNav workshop",
+    "type": ""
+  },
+  {
+    "URL": "https://gemcityml.com/magnav_contest/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "nielsen2022b",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "publisher": "Presented at September Meeting of Gem City Tech Machine Learning Group",
+    "title": "Machine learning for magnetic navigation",
+    "type": ""
+  },
+  {
+    "DOI": "10.48550/ARXIV.2212.09899",
+    "URL": "https://arxiv.org/abs/2212.09899",
+    "author": [
+      {
+        "family": "Gnadt",
+        "given": "Albert R."
+      },
+      {
+        "family": "Wollaber",
+        "given": "Allan B."
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron P."
+      }
+    ],
+    "id": "gnadt2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "keyword": "Applied Physics (physics.app-ph), Geophysics (physics.geo-ph), FOS: Physical sciences, FOS: Physical sciences",
+    "publisher": "arXiv",
+    "title": "Derivation and extensions of the tolles-lawson model for aeromagnetic compensation",
+    "type": ""
+  },
+  {
+    "URL": "https://www.445aw.afrc.af.mil/News/Article-Display/Article/2738695/c-17-good-platform-for-magnav-development/",
+    "author": [
+      {
+        "family": "Vaughn",
+        "given": "Stacy"
+      }
+    ],
+    "id": "vaughn2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8
+        ]
+      ]
+    },
+    "publisher": "On-line",
+    "title": "C-17 good platform for MagNav development",
+    "type": ""
+  },
+  {
+    "DOI": "10.48550/ARXIV.2007.12158",
+    "URL": "https://arxiv.org/abs/2007.12158",
+    "author": [
+      {
+        "family": "Gnadt",
+        "given": "Albert R."
+      },
+      {
+        "family": "Belarge",
+        "given": "Joseph"
+      },
+      {
+        "family": "Canciani",
+        "given": "Aaron"
+      },
+      {
+        "family": "Carl",
+        "given": "Glenn"
+      },
+      {
+        "family": "Conger",
+        "given": "Lauren"
+      },
+      {
+        "family": "Curro",
+        "given": "Joseph"
+      },
+      {
+        "family": "Edelman",
+        "given": "Alan"
+      },
+      {
+        "family": "Morales",
+        "given": "Peter"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron P."
+      },
+      {
+        "family": "O’Keeffe",
+        "given": "Michael F."
+      },
+      {
+        "family": "Rackauckas",
+        "given": "Christopher V."
+      },
+      {
+        "family": "Taylor",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Wollaber",
+        "given": "Allan B."
+      }
+    ],
+    "id": "gnadt2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "Machine Learning (cs.LG), Geophysics (physics.geo-ph), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Physical sciences, FOS: Physical sciences",
+    "publisher": "arXiv",
+    "title": "Signal enhancement for magnetic navigation challenge problem",
+    "type": ""
+  }
+]
