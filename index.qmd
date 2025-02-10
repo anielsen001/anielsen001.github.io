@@ -7,14 +7,45 @@ nocite: '@*'
 filters:
   - quarto
   - section-bibliographies
-  - bold-author.lua
+  # - bold-author.lua
 bold-auth-name:
   - family: Nielsen
-    given: "Aaron P."
+    given: Aaron P.
   - family: Nielsen
-    given: "A. P."
+    given: A. P.
   - family: Nielsen
-    given: "A."    
+    given: A.
+citeproc: false
+reference-section-title: " "  
 ---
 
-## Selected publications and presentations
+# Presentations {#sec-presentations}
+
+::: {.hidden}
+
+@canciani2023
+@nielsen2023a
+@nielsen2023b
+@nielsen2023c
+@nielsen2022b
+
+:::
+
+# Press releases {#sec-press-releases}
+
+::: {.hidden}
+
+@vaughn2021
+
+:::
+
+# Publications {#sec-publications}
+
+::: {.hidden}
+
+@lathrop2024
+@moradi2024
+@gnadt2022
+@gnadt2020
+
+:::
