@@ -1,5 +1,6 @@
 ---
 title: "Aaron Nielsen"
+subtitle: "Selected Presentations and Publications"
 format: html
 bibliography: nielsen_resume_selected.json
 csl: apa-cv.csl
