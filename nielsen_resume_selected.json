@@ -229,6 +229,29 @@
     "type": "article-journal"
   },
   {
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Kahler",
+        "given": "Bart"
+      }
+    ],
+    "container-title": "NAECON 2025",
+    "id": "nielsen2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "Radar reflector design for improved detection of cyclists (submitted)",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://www.apnielsen.com/dual-numbers-auto-diff/",
     "author": [
       {
