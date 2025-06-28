@@ -20,6 +20,16 @@ citeproc: false
 reference-section-title: " "  
 ---
 
+# Projects {#sec-projects}
+
+::: {.hidden}
+
+@nielsen2025
+@nielsen2025b
+@nielsen2024b
+
+:::
+
 # Presentations {#sec-presentations}
 
 ::: {.hidden}
