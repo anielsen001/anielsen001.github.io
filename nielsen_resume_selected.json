@@ -1,5 +1,186 @@
 [
   {
+    "author": [
+      {
+        "family": "Blakely",
+        "given": "Brandon"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Brinkley",
+        "given": "Dennis"
+      },
+      {
+        "family": "Cameron-Gonzalez",
+        "given": "Antonio"
+      }
+    ],
+    "container-title": "Joint navigation conference 2025",
+    "id": "blakely2025b",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "publisher": "Institute of Navigation",
+    "title": "Magnetic anomaly map error analysis",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Blakely",
+        "given": "Brandon"
+      },
+      {
+        "family": "Sharma",
+        "given": "Rajnikant"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Taylor",
+        "given": "Clark"
+      }
+    ],
+    "container-title": "Joint navigation conference 2025",
+    "id": "blakely2025a",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "publisher": "Institute of Navigation",
+    "title": "MagNet: Magnetic networks for navigation",
+    "title-short": "MagNet",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Duff",
+        "given": "Patrick"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "container-title": "Joint navigation conference 2025",
+    "id": "duff2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "publisher": "Institute of Navigation",
+    "title": "Reference magnetic maps in marine areas from legacy data: Quantitative comparison of frequency dependent features, errors, and uncertainties in gridded magnetic data",
+    "title-short": "Reference magnetic maps in marine areas from legacy data",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurdian",
+        "given": "Armen"
+      },
+      {
+        "family": "Brink",
+        "given": "Kevin"
+      },
+      {
+        "family": "McNally",
+        "given": "Brandon"
+      },
+      {
+        "family": "Smearcheck",
+        "given": "Mark"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "container-title": "Joint navigation conference 2025",
+    "id": "kurdian2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "publisher": "Institute of Navigation",
+    "title": "Magnetic and gravity-based experimental navigation test and assessment (MAGENTA)",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Whitney",
+        "given": "Shawn"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "container-title": "Joint navigation conference 2025",
+    "id": "whitney2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "publisher": "Institute of Navigation",
+    "title": "Factor graph-based magnetic anomaly navigation: A robust bayesian inference approach",
+    "title-short": "Factor graph-based magnetic anomaly navigation",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Blakely",
+        "given": "Brandon"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "container-title": "2025 IEEE/ION position, location and navigation symposium (PLANS), salt lake city, UT",
+    "id": "blakely2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "page": "802-808",
+    "title": "Analysis of magnetic anomaly maps and navigation performance using flight test data",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1109/JSEN.2024.3416618",
     "ISSN": "2379-9153",
     "author": [
@@ -213,7 +394,7 @@
     },
     "keyword": "Applied Physics (physics.app-ph), Geophysics (physics.geo-ph), FOS: Physical sciences, FOS: Physical sciences",
     "publisher": "arXiv",
-    "title": "Derivation and extensions of the tolles-lawson model for aeromagnetic compensation",
+    "title": "Derivation and extensions of the Tolles-Lawson model for aeromagnetic compensation",
     "type": ""
   },
   {
