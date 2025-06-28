@@ -181,6 +181,75 @@
     "type": "paper-conference"
   },
   {
+    "URL": "https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "nielsen2025b",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "publisher": "On-line.",
+    "title": "PyOdide for interactive presentations",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      },
+      {
+        "family": "Jones",
+        "given": "Isaac"
+      },
+      {
+        "family": "Kahler",
+        "given": "Bart"
+      }
+    ],
+    "container-title": "IEEE Transactions on Consumer Electronics, to be submitted",
+    "id": "nielsen2025a",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "Bicycle radar reflectors",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.apnielsen.com/dual-numbers-auto-diff/",
+    "author": [
+      {
+        "family": "Nielsen",
+        "given": "Aaron"
+      }
+    ],
+    "id": "nielsen2024b",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "publisher": "On-line",
+    "title": "Dual-numbers and auto-differentiation.",
+    "type": ""
+  },
+  {
     "DOI": "10.1109/JSEN.2024.3416618",
     "ISSN": "2379-9153",
     "author": [
