@@ -12,12 +12,30 @@ website:
   google-analytics: "G-XV3NXH8NG5"
   page-navigation: true
   navbar:
-    title: "apnielsen.com website"
+    title: "Aaron Nielsen's Personal Website"
     search: true
   sidebar:
     contents:
       - text: "Home"
         file: index.qmd
+
+      - section: "Projects"
+        contents:
+          - text: "Bike radar reflectors"
+            href: "https://www.apnielsen.com/bike-corner-relfector/"
+          - text: "Dual-numbers and autodiff"
+            href: "https://www.apnielsen.com/dual-numbers-auto-diff/"
+          - text: "PyOdide interactive presentations"
+            href: "https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/"
+      
+      - section: "External links"
+        contents:
+          - text: LinkedIn
+            href: "https://www.linkedin.com/in/aaronnielsen/"
+          - text: GitHub
+            href: "https://github.com/anielsen001"
+          - text: "AFIT Bio"
+            href: "https://www.afit.edu/BIOS/bio.cfm?facID=818"
 
 format: 
   html:
