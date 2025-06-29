@@ -14,6 +14,17 @@ website:
   navbar:
     title: "Aaron Nielsen's Personal Website"
     search: true
+
+    right:
+      - text: AFIT
+        href: "https://www.afit.edu/BIOS/bio.cfm?facID=818"
+      - text: "{{< ai orcid >}}"
+        href: "https://orcid.org/0000-0003-1849-4611"
+      - icon: github
+        href: "https://github.com/anielsen001"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/aaronnielsen/"
+
   sidebar:
     contents:
       - text: "Home"
@@ -27,15 +38,6 @@ website:
             href: "https://www.apnielsen.com/dual-numbers-auto-diff/"
           - text: "PyOdide interactive presentations"
             href: "https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/"
-      
-      - section: "External links"
-        contents:
-          - text: LinkedIn
-            href: "https://www.linkedin.com/in/aaronnielsen/"
-          - text: GitHub
-            href: "https://github.com/anielsen001"
-          - text: "AFIT Bio"
-            href: "https://www.afit.edu/BIOS/bio.cfm?facID=818"
 
 format: 
   html:
