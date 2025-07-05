@@ -20,7 +20,8 @@ citeproc: false
 reference-section-title: " "  
 ---
 
-# Projects {#sec-projects}
+
+# Personal presentations {#sec-projects}
 
 ::: {.hidden}
 
@@ -30,7 +31,7 @@ reference-section-title: " "
 
 :::
 
-# Presentations {#sec-presentations}
+# Professional presentations {#sec-presentations}
 
 ::: {.hidden}
 
