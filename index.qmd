@@ -23,7 +23,7 @@ reference-section-title: " "
 # Projects
 
 - [Ballooning](https://apnielsen.com/high-altitude-balloon)
-- [Bicycle radar reflectors](https://www.apnielsen.com/bike-corner-relfector/)
+- [Bicycle radar reflectors](https://www.apnielsen.com/bike-corner-reflector/)
 - [Corsi-Rosenthal box air filter](https://apnielsen.com/diy-corsi-rosenthal-box/)
 
 # Personal Presentations
