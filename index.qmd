@@ -30,6 +30,7 @@ reference-section-title: " "
 
 - [Python interactive presentations with PyOdide](https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/) for [Gem City Tech](https://gemcity.tech/) [Dayton Dynamic Languages group.](https://dayton-dynamic.github.io/) March 2025.
 - [Dual numbers and auto-differentiation](http://apnielsen.com/dual-numbers-auto-diff/) for [Gem City Tech](https://gemcity.tech/) AI/ML group. November 2024.
+- [Indoor carbon dioxide estimation and prediciton](http://apnielsen.com/co2-gem-city-tech/) for [Gem City Tech](https://gemcity.tech/) AI/ML group. November 2022.
 
 
 # Personal presentations {#sec-projects}
