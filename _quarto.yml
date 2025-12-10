@@ -16,7 +16,6 @@ website:
   google-analytics: "G-XV3NXH8NG5"
   
   page-navigation: true
-  back-to-top-navigation: true
   reader-mode: true
 
   repo-url: https://github.com/anielsen001/anielsen001.github.io
@@ -52,7 +51,12 @@ website:
           - text: "PyOdide interactive presentations"
             href: "https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/"
             
-  page-footer: "Copyright 2025, Aaron Nielsen"
+  page-footer:
+    center:
+      - "Copyright 2025, Aaron Nielsen"
+      - text: License
+        href: LICENSE
+
     
 format: 
   html:
