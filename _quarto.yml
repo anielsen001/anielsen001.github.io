@@ -6,11 +6,22 @@ project:
 execute: 
   freeze: auto
 
+copyright:
+  holder: Aaron Nielsen
+  year: 2025
+
 website:
   # favicon: favicon.ico
   open-graph: true
   google-analytics: "G-XV3NXH8NG5"
+  
   page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
+
+  repo-url: https://github.com/anielsen001/anielsen001.github.io
+  repo-actions: [source,issue]
+  
   navbar:
     title: "Aaron Nielsen's Personal Website"
     search: true
@@ -40,7 +51,9 @@ website:
             href: "https://www.apnielsen.com/dual-numbers-auto-diff/"
           - text: "PyOdide interactive presentations"
             href: "https://whitenoisetech.codeberg.page/2025-03-12-ddl-pyodide/"
-
+            
+  page-footer: "Copyright 2025, Aaron Nielsen"
+    
 format: 
   html:
     theme: cosmo
